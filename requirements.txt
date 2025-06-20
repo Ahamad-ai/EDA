@@ -4,3 +4,4 @@ matplotlib
 pandasql
 scikit-learn
 numpy
+imbalanced-learn
