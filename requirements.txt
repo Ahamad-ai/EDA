@@ -2,3 +2,5 @@ pandas
 seaborn
 matplotlib
 pandasql
+scikit-learn
+numpy
